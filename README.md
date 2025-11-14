@@ -39,7 +39,7 @@ No installation required — just download and run!
 
 ## 🖥️ Usage
 
-1. Launch the app by double-clicking `api-testing.exe`
+1. Launch the app by double-clicking `Api Tester.exe`
 2. Enter your API URL and method (GET, POST, etc.)
 3. Add headers, params, or body if needed
 4. Click **Send** and view your results instantly
@@ -50,7 +50,7 @@ No installation required — just download and run!
 
 Watch a quick demo of the tool in action:
 
-[![Watch the demo](https://via.placeholder.com/800x450.png?text=Demo+Video)](https://drive.google.com/file/d/1Aqj9FYDQWxAR8XV9vS8vD4GWzzoqsCs_/view?usp=sharing)
+[![Watch the demo](https://via.placeholder.com/800x450.png?text=Demo+Video)](https://drive.google.com/file/d/1ezo1WDdHFa3cReSG3aJgi00x3eGJBWk3/view?usp=sharing)
 
 
 ## 🧰 Tech Stack
@@ -78,4 +78,5 @@ Open an issue on GitHub or reach out via email — your feedback helps improve t
 ### 🌟 If you find this project helpful, please consider giving it a ⭐ on GitHub!
 
 ---
+
 
